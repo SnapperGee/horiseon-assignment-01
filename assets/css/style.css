@@ -58,7 +58,7 @@ p {
     margin-bottom: 25px;
 }
 
-/* Wide sections below banner image on left */
+/* Wide sections on left below banner image */
 #content {
     width: 75%;
     display: inline-block;
@@ -93,7 +93,7 @@ p {
     font-size: 36px;
 }
 
-/* Skinny side bar below banner image to right of main focal point sections */
+/* Skinny side bar to right of main focal point sections below banner image */
 #benefits {
     margin-right: 20px;
     padding: 20px;
