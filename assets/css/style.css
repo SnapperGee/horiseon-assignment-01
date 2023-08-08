@@ -101,9 +101,14 @@ p {
     background-color: #2589bd;
 }
 
-.individual-benefit h3 {
+.individual-benefit {
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+.individual-benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 .individual-benefit img {
