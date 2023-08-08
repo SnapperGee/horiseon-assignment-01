@@ -51,7 +51,15 @@ The following structure is used for this project:
 
 ```
 
+### Webpage
+
+The webpage can be publicly accessed
+[HERE](https://snappergee.github.io/horiseon-assignment-01/) and below is a
+screen shot of what it looks like:
+
+![Webpage screenshot](./assets/images/horiseon-webpage-screenshot.png)
+
 ### Contact information
 
-All inquiries regarding technical aspects of this webpage can be emailed to:
+All inquiries regarding technical aspects of this webpage can be emailed to
 [dev support](mailto:dev-support@horiseon.com)
