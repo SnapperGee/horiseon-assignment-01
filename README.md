@@ -1,6 +1,6 @@
 # Horiseon
 
-This webpage highlights the key focal points of Horiseon and how they benefits
+This webpage highlights the key focal points of Horiseon and how they benefit
 their clients.
 
 ## Search Engine Optimization (SEO)
