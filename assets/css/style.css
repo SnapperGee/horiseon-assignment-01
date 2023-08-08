@@ -17,6 +17,7 @@ p {
     font-size: 16px;
 }
 
+/* Header containing logo and nav bar at top of page*/
 #header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,16 +51,18 @@ p {
     margin-left: 25px;
 }
 
-#content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Large banner image below nav bar */
 #hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+}
+
+/* Wide sections below banner image on left */
+#content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -90,6 +93,7 @@ p {
     font-size: 36px;
 }
 
+/* Skinny side bar below banner image to right of main focal point sections */
 #benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,6 +121,7 @@ p {
     max-width: 150px;
 }
 
+/* Info about webpage author at bottom */
 #footer {
     padding: 30px;
     clear: both;
