@@ -42,6 +42,7 @@ The following structure is used for this project:
 │       ├── brand-awareness.png
 │       ├── cost-management.png
 │       ├── digital-marketing-meeting.jpg
+│       ├── horiseon-webpage-screenshot.png
 │       ├── lead-generation.png
 │       ├── online-reputation-management.jpg
 │       ├── search-engine-optimization.jpg
